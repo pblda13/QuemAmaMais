@@ -8,6 +8,15 @@ Bem-vindo à aplicação de Cálculo do Amor! Este é um programa Windows Forms 
 - Ambiente de desenvolvimento compatível com Windows Forms (por exemplo, Visual Studio).
 - Conhecimentos básicos em programação com C#.
 
+- ## 💻 Apresentação:
+
+<p align="center">
+<a href="https://github.com/pblda13/Projeto-Loteria">
+<img  width="400"  height="400" src="1.PNG">
+<img  width="400"  height="500" src="2.PNG">
+
+</p>
+
 ## Como Usar
 
 1. Abra o ambiente de desenvolvimento e crie um novo projeto Windows Forms.
@@ -60,3 +69,5 @@ Este projeto foi desenvolvido pela Pâmela Borges Se você identificar algum pro
 
 
 Esperamos que a aplicação de Cálculo do Amor seja divertida para você e seu(a) namorado(a)! Aproveite!
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpblda13%2FQuemAmaMais&label=Visitantes&countColor=%23f47373&style=flat-square)
