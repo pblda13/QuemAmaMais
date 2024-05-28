@@ -45,19 +45,20 @@ namespace QuemAmaMais
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(21, 83);
+            this.label1.Location = new System.Drawing.Point(12, 78);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(242, 80);
+            this.label1.Size = new System.Drawing.Size(298, 80);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Informe o quanto você ama \r\nsua namorada e clique em\r\nCALCULAR para saber\r\nquem a" +
-    "ma mais.\r\n";
+            this.label1.Text = "Informe o quanto você ama \r\nseu(sua) namorado(a) e clique em\r\nCALCULAR para saber" +
+    "\r\nquem ama mais.\r\n";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::QuemAmaMais.Properties.Resources._274295614b1f1971b08ab25420222b6a;
-            this.pictureBox1.Location = new System.Drawing.Point(294, 49);
+            this.pictureBox1.Location = new System.Drawing.Point(351, 43);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(132, 127);
+            this.pictureBox1.Size = new System.Drawing.Size(110, 115);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
@@ -119,7 +120,7 @@ namespace QuemAmaMais
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(22, 284);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(281, 17);
+            this.label3.Size = new System.Drawing.Size(266, 16);
             this.label3.TabIndex = 6;
             this.label3.Text = "Valores até 12 serão aceitos,se necessário";
             // 
@@ -128,7 +129,7 @@ namespace QuemAmaMais
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(455, 435);
+            this.ClientSize = new System.Drawing.Size(484, 435);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button3);

@@ -8,3 +8,13 @@ C:\Users\Pâmela\source\repos\QuemAmaMais\QuemAmaMais\obj\Debug\QuemAmaMais.cspr
 C:\Users\Pâmela\source\repos\QuemAmaMais\QuemAmaMais\obj\Debug\QuemAmaMais.csproj.CoreCompileInputs.cache
 C:\Users\Pâmela\source\repos\QuemAmaMais\QuemAmaMais\obj\Debug\QuemAmaMais.exe
 C:\Users\Pâmela\source\repos\QuemAmaMais\QuemAmaMais\obj\Debug\QuemAmaMais.pdb
+D:\Users\Pâmela\Desktop\QuemAmaMais\QuemAmaMais\bin\Debug\QuemAmaMais.exe.config
+D:\Users\Pâmela\Desktop\QuemAmaMais\QuemAmaMais\bin\Debug\QuemAmaMais.exe
+D:\Users\Pâmela\Desktop\QuemAmaMais\QuemAmaMais\bin\Debug\QuemAmaMais.pdb
+D:\Users\Pâmela\Desktop\QuemAmaMais\QuemAmaMais\obj\Debug\QuemAmaMais.csproj.AssemblyReference.cache
+D:\Users\Pâmela\Desktop\QuemAmaMais\QuemAmaMais\obj\Debug\QuemAmaMais.Form1.resources
+D:\Users\Pâmela\Desktop\QuemAmaMais\QuemAmaMais\obj\Debug\QuemAmaMais.Properties.Resources.resources
+D:\Users\Pâmela\Desktop\QuemAmaMais\QuemAmaMais\obj\Debug\QuemAmaMais.csproj.GenerateResource.cache
+D:\Users\Pâmela\Desktop\QuemAmaMais\QuemAmaMais\obj\Debug\QuemAmaMais.csproj.CoreCompileInputs.cache
+D:\Users\Pâmela\Desktop\QuemAmaMais\QuemAmaMais\obj\Debug\QuemAmaMais.exe
+D:\Users\Pâmela\Desktop\QuemAmaMais\QuemAmaMais\obj\Debug\QuemAmaMais.pdb
